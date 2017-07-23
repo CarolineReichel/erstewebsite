@@ -59,13 +59,20 @@ p {
   margin-right: auto;
 }
 
+.blogsite {
+  width: 600px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 a{
   text-decoration: none;
   color: black;
 }
 
 a:hover{
-  color: #FCF3D5;
+  color: #ECEBEC;
 }
 
 .clear{
@@ -182,7 +189,7 @@ img.portrait {
 }
 
 section.merle{
-  background-color: #FBDCE3;
+  background-color: #FCE1EC;
   height: 400px;
   display: flex;
   align-items: center;
@@ -203,7 +210,7 @@ img.selfportrait {
   width: 400px;
   float: left;
   margin-right: 10px;
-  border: 5px double #FFF9BA;
+  border: 4px ridge #959594;
 
 }
 
@@ -214,4 +221,136 @@ p.aboutsite {
   padding: 5px;
   margin: 20px;
   text-align: center;
+}
+
+img.linn3 {
+  width: 600px;
+  height: 400px;
+}
+
+img.linn2 {
+  width: 400px;
+  height: 400px;
+}
+
+img.linnanziehen {
+  width: 600px;
+  height: 400px;
+}
+
+img.linnbody {
+  width: auto;
+  height: 400px;
+}
+
+img.kind {
+  width: auto;
+  height: 400px;
+}
+
+img.blumenkind {
+  width: 600px;
+  height: 400px;
+}
+
+img.merle {
+  width: auto;
+  height: 400px;
+}
+
+img.caren {
+  width: auto;
+  height: 400px;
+}
+
+img.caroline {
+  width: auto;
+  height: 400px;
+}
+
+img.peony {
+  width: auto;
+  height: 400px;
+}
+
+img.strauss {
+  width: auto;
+  height: 400px;
+}
+
+img.ananas {
+  width: auto;
+  height: 400px;
+}
+
+img.eis2 {
+  width: auto;
+  height: 400px;
+  padding-right: 10px;
+}
+
+img.unicorn {
+  width: 600px;
+  height: 400px;
+  padding-right: 10px;
+}
+
+img.herzballon {
+  width: 400px;
+  height: 400px;
+}
+
+img.kranz {
+  width: 600px;
+  height: 400px;
+}
+
+img.fingerblume {
+  width: 600px;
+  height: 400px;
+}
+
+img.juliablumen {
+  width: auto;
+  height: 400px;
+}
+
+img.basteln {
+  width: 400px;
+  height: 400px;
+}
+
+img.seifenblasen {
+  width: 600px;
+  height: 400px;
+}
+
+img.julialacht {
+  width: 600px;
+  height: 400px;
+}
+
+img.gruppe {
+  width: 400px;
+  height: 400px;
+}
+
+img.halbkranz {
+  width: 600px;
+  height: 400px;
+}
+
+img.brunchen {
+  width: auto;
+  height: 400px;
+}
+
+img.zettel {
+  width: auto;
+  height: 400px;
+}
+
+img.blumenhand {
+  width: 600px;
+  height: 400px;
 }
