@@ -17,7 +17,7 @@ h1 {
 
 h2 {
   font-family: "Cormorant+Garamond", serif;
-  font-size: 16px;
+  font-size: 14px;
   text-align: center;
 }
 
@@ -93,18 +93,25 @@ a:hover{
 
 .navigation li {
   display: inline-block;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 100;
   letter-spacing: 2px;
-  margin: 20px;
+  margin: 10px;
 }
 
 img.flowers {
   width: 1000px;
-  heigth: 500px;
+  heigth: 400px;
   display: block;
   margin: 0px auto;
   clear: both;
+}
+
+img.peonyphoto {
+  width: 200px;
+  heigth: 200px;
+  display: flex;
+  align-items: center;
 }
 
 img.ich {
@@ -114,7 +121,7 @@ img.ich {
 }
 
 section.ichbin{
-  background-color: #FFFFCC;
+  background-color: #FCFAE9;
   height: 400px;
   display: flex;
   align-items: center;
@@ -223,6 +230,10 @@ p.aboutsite {
   text-align: center;
 }
 
+p.kontaktieren {
+  text-align: center;
+}
+
 img.linn3 {
   width: 600px;
   height: 400px;
@@ -286,6 +297,12 @@ img.ananas {
 img.eis2 {
   width: auto;
   height: 400px;
+  padding-right: 10px;
+}
+
+img.rosi {
+  width: 600px;
+  height: 600px;
   padding-right: 10px;
 }
 
